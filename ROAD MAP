@@ -89,10 +89,12 @@ implementation related to States and Props
 DAY-12: 
 
 Implementation on states and props 
+
 DAY-13: 
 
 Asynchronous and synchronous in javascript. 
 REQUIREMENT: to understand the concept in asynchronous and synchronous in javascript for moving forward in react. Implemented using examples snippet and implemented using awsit,aync concept. 
+
 DAY-14: 
 
 Promise,async,await cocnepts. 
