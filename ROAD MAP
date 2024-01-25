@@ -1,0 +1,100 @@
+ROAD MAP TO FROTNEND.
+DAY-1              
+
+JavaScript(FROM BASICS)   
+
+Where to 
+
+Syntax 
+
+Comments                                                        
+
+Variables 
+
+Let                                                                    
+
+Const 
+
+Operators 
+
+Arthmetic 
+
+Assignment 
+
+Datatypes 
+
+Functions 
+
+Objects 
+
+Events 
+
+Practicing exercises in same website after completion of topic. 
+
+RESOURCE: https://www.w3schools.com/js/default.asp      
+
+
+DAY-2:  
+
+installing VS Code and create a js file to practice the logics. It takes sometime to understand by practicing we can understand easily. 
+
+Concepts in Array in javascript,Array Length 
+
+Array Reverse, Array Sort, Array Fill,Array Join 
+
+RESOURCE: https://www.programiz.com/javascript/library/array 
+
+DAY-3: 
+In vscode created a html and css files and created a page using both html and css and modified the css adding buttons and  adding background templates and changing 
+to get fit to screen to bring some changes and connected through live server. 
+
+RESOURCE: vs code ,live server,HTML CSS support extensions 
+
+PORT: http://127.0.0.1:5500/page.html 
+
+DAY-4: 
+
+in vscode created a html and css files and created a page using both html and css and modified the css adding buttons and  adding background templates and changing to get fit
+to screen to bring some changes and connected through live server.and changing the css properties and changed html part to added the buttons and navigating to 
+next page using buttons and done some
+work in css part and learned about that . 
+
+DAY-5: 
+
+Learned the concepts in DOM and practiced. in  learning took reference from youtube and w3schools,geeksforgeeks website. 
+
+DAY-6: 
+
+Learned the javascript concepts in objects up to sets and practiced. 
+RESOURCE: https://www.w3schools.com/js/js_object_definition.asp 
+
+DAY-7: 
+
+Learned the javascript concepts remaining part and practiced .it takes time while learning 
+
+DAY-8: 
+
+Learned the javascript concepts and revised everything once . 
+
+DAY-9: 
+
+Started the react concept knowing the prerequsites of react and learning  
+DAY-10: 
+
+Perfromed the tasks in app.js and app.cs to build small page and it will takes some time to understand. 
+
+DAY-11: 
+
+implementation related to States and Props 
+DAY-12: 
+
+Implementation on states and props 
+DAY-13: 
+
+Asynchronous and synchronous in javascript. 
+REQUIREMENT: to understand the concept in asynchronous and synchronous in javascript for moving forward in react. Implemented using examples snippet and implemented using awsit,aync concept. 
+DAY-14: 
+
+Promise,async,await cocnepts. 
+
+REQUIREMENT: to understand the concept in Promise,async,await.and understadning in javascript as a part of react learning. 
